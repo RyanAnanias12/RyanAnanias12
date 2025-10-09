@@ -36,11 +36,10 @@
 
 ## 📈 Skills (Proporção de Uso)
 
-- **Node.js** – ██████████░░ 40%  
-- **Python** – ██████░░░░░░ 25%  
-- **JavaScript** – █████░░░░░░ 20%  
-- **C# / .NET** – ██░░░░░░░░░ 10%  
-- **Java** – █░░░░░░░░░░░ 5%  
+- **Node.js**
+- **Python**
+- **JavaScript** 
+- **C# / .NET**
 
 ---
 
