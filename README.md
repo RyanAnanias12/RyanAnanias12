@@ -1,4 +1,4 @@
-
+![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 ## Olá, eu sou o Ryan <img src="https://gist.githubusercontent.com/haldaranup/aad23918f5ad8bff5199094c9f6d337a/raw/a19b90e65fcffa0eabd3874b66520b91ee9f0e60/hi.gif" width="29">
 
 💻 Desenvolvedor apaixonado por tecnologia, focado em criar soluções práticas e bem estruturadas.  
@@ -27,7 +27,9 @@
   </a>
 </p>
 
+___
 
+![GitHub Streak](https://streak-stats.demolab.com?user=RyanAnanias12&theme=radical)
 
 ___
 <h2 align="center">Let's Connect<img src="https://gist.github.com/haldaranup/f89330e95dfca979a5bc9fd80602761f/raw/8a3d00dfc3aa37c26873bb154227e395ef77cdfa/handshake.gif" height="32px"> </h2>
